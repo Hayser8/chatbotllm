@@ -1,0 +1,14 @@
+.pdf
+.jpg
+.jpeg
+.png
+.webp
+.svg
+.ico
+.zip
+.mp4
+.mp3
+.css
+.js
+woff
+woff2
