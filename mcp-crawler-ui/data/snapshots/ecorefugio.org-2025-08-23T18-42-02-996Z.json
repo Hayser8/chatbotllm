@@ -1,0 +1,382 @@
+{
+  "input": {
+    "startUrl": "https://ecorefugio.org/",
+    "depth": 2,
+    "maxPages": 150,
+    "includeSubdomains": false
+  },
+  "output": {
+    "inventory": [
+      {
+        "url": "https://www.ecorefugio.org/",
+        "normalizedUrl": "https://www.ecorefugio.org/",
+        "finalUrl": "https://www.ecorefugio.org/",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/exoterra",
+        "normalizedUrl": "https://www.ecorefugio.org/exoterra",
+        "finalUrl": "https://www.ecorefugio.org/exoterra",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/zoomed",
+        "normalizedUrl": "https://www.ecorefugio.org/zoomed",
+        "finalUrl": "https://www.ecorefugio.org/zoomed",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/reptizoo",
+        "normalizedUrl": "https://www.ecorefugio.org/reptizoo",
+        "finalUrl": "https://www.ecorefugio.org/reptizoo",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/terratlantis",
+        "normalizedUrl": "https://www.ecorefugio.org/terratlantis",
+        "finalUrl": "https://www.ecorefugio.org/terratlantis",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/zilla",
+        "normalizedUrl": "https://www.ecorefugio.org/zilla",
+        "finalUrl": "https://www.ecorefugio.org/zilla",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/cristal",
+        "normalizedUrl": "https://www.ecorefugio.org/cristal",
+        "finalUrl": "https://www.ecorefugio.org/cristal",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/acrilico",
+        "normalizedUrl": "https://www.ecorefugio.org/acrilico",
+        "finalUrl": "https://www.ecorefugio.org/acrilico",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/madera",
+        "normalizedUrl": "https://www.ecorefugio.org/madera",
+        "finalUrl": "https://www.ecorefugio.org/madera",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/malla",
+        "normalizedUrl": "https://www.ecorefugio.org/malla",
+        "finalUrl": "https://www.ecorefugio.org/malla",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/pvc",
+        "normalizedUrl": "https://www.ecorefugio.org/pvc",
+        "finalUrl": "https://www.ecorefugio.org/pvc",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/plastico",
+        "normalizedUrl": "https://www.ecorefugio.org/plastico",
+        "finalUrl": "https://www.ecorefugio.org/plastico",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/mini",
+        "normalizedUrl": "https://www.ecorefugio.org/mini",
+        "finalUrl": "https://www.ecorefugio.org/mini",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/pequenos",
+        "normalizedUrl": "https://www.ecorefugio.org/pequenos",
+        "finalUrl": "https://www.ecorefugio.org/pequenos",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/medianos",
+        "normalizedUrl": "https://www.ecorefugio.org/medianos",
+        "finalUrl": "https://www.ecorefugio.org/medianos",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/grandes",
+        "normalizedUrl": "https://www.ecorefugio.org/grandes",
+        "finalUrl": "https://www.ecorefugio.org/grandes",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/reptiles",
+        "normalizedUrl": "https://www.ecorefugio.org/reptiles",
+        "finalUrl": "https://www.ecorefugio.org/reptiles",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/reptiles/serpientes",
+        "normalizedUrl": "https://www.ecorefugio.org/reptiles/serpientes",
+        "finalUrl": "https://www.ecorefugio.org/reptiles/serpientes",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/reptiles/geckos",
+        "normalizedUrl": "https://www.ecorefugio.org/reptiles/geckos",
+        "finalUrl": "https://www.ecorefugio.org/reptiles/geckos",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/reptiles/geckos/crestado",
+        "normalizedUrl": "https://www.ecorefugio.org/reptiles/geckos/crestado",
+        "finalUrl": "https://www.ecorefugio.org/reptiles/geckos/crestado",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/reptiles/geckos/leopardo",
+        "normalizedUrl": "https://www.ecorefugio.org/reptiles/geckos/leopardo",
+        "finalUrl": "https://www.ecorefugio.org/reptiles/geckos/leopardo",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/reptiles/geckos/salamanquesa",
+        "normalizedUrl": "https://www.ecorefugio.org/reptiles/geckos/salamanquesa",
+        "finalUrl": "https://www.ecorefugio.org/reptiles/geckos/salamanquesa",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/anfibios",
+        "normalizedUrl": "https://www.ecorefugio.org/anfibios",
+        "finalUrl": "https://www.ecorefugio.org/anfibios",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/aracnidos",
+        "normalizedUrl": "https://www.ecorefugio.org/aracnidos",
+        "finalUrl": "https://www.ecorefugio.org/aracnidos",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/insectos",
+        "normalizedUrl": "https://www.ecorefugio.org/insectos",
+        "finalUrl": "https://www.ecorefugio.org/insectos",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/crustaceos",
+        "normalizedUrl": "https://www.ecorefugio.org/crustaceos",
+        "finalUrl": "https://www.ecorefugio.org/crustaceos",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/moluscos",
+        "normalizedUrl": "https://www.ecorefugio.org/moluscos",
+        "finalUrl": "https://www.ecorefugio.org/moluscos",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/mamiferos",
+        "normalizedUrl": "https://www.ecorefugio.org/mamiferos",
+        "finalUrl": "https://www.ecorefugio.org/mamiferos",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/calculadora-de-terrarios",
+        "normalizedUrl": "https://www.ecorefugio.org/calculadora-de-terrarios",
+        "finalUrl": "https://www.ecorefugio.org/calculadora-de-terrarios",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://www.ecorefugio.org/sobre-nosotros",
+        "normalizedUrl": "https://www.ecorefugio.org/sobre-nosotros",
+        "finalUrl": "https://www.ecorefugio.org/sobre-nosotros",
+        "status": 0,
+        "contentType": null,
+        "depth": null,
+        "discoveredBy": "sitemap",
+        "redirectChain": []
+      },
+      {
+        "url": "https://ecorefugio.org/",
+        "normalizedUrl": "https://ecorefugio.org/",
+        "finalUrl": "https://www.ecorefugio.org/",
+        "status": 200,
+        "contentType": "text/html",
+        "depth": 0,
+        "discoveredBy": "html",
+        "redirectChain": [
+          {
+            "from": "https://ecorefugio.org/",
+            "to": "https://www.ecorefugio.org/",
+            "status": 301
+          }
+        ]
+      }
+    ],
+    "edges": [],
+    "sitemap": [
+      "https://ecorefugio.org/sitemap.xml"
+    ],
+    "stats": {
+      "pagesFetched": 1,
+      "pagesFromSitemap": 30,
+      "pagesFromHtml": 1,
+      "elapsedMs": 3406
+    },
+    "reports": {
+      "orphansInSitemap": [
+        "https://www.ecorefugio.org/",
+        "https://www.ecorefugio.org/exoterra",
+        "https://www.ecorefugio.org/zoomed",
+        "https://www.ecorefugio.org/reptizoo",
+        "https://www.ecorefugio.org/terratlantis",
+        "https://www.ecorefugio.org/zilla",
+        "https://www.ecorefugio.org/cristal",
+        "https://www.ecorefugio.org/acrilico",
+        "https://www.ecorefugio.org/madera",
+        "https://www.ecorefugio.org/malla",
+        "https://www.ecorefugio.org/pvc",
+        "https://www.ecorefugio.org/plastico",
+        "https://www.ecorefugio.org/mini",
+        "https://www.ecorefugio.org/pequenos",
+        "https://www.ecorefugio.org/medianos",
+        "https://www.ecorefugio.org/grandes",
+        "https://www.ecorefugio.org/reptiles",
+        "https://www.ecorefugio.org/reptiles/serpientes",
+        "https://www.ecorefugio.org/reptiles/geckos",
+        "https://www.ecorefugio.org/reptiles/geckos/crestado",
+        "https://www.ecorefugio.org/reptiles/geckos/leopardo",
+        "https://www.ecorefugio.org/reptiles/geckos/salamanquesa",
+        "https://www.ecorefugio.org/anfibios",
+        "https://www.ecorefugio.org/aracnidos",
+        "https://www.ecorefugio.org/insectos",
+        "https://www.ecorefugio.org/crustaceos",
+        "https://www.ecorefugio.org/moluscos",
+        "https://www.ecorefugio.org/mamiferos",
+        "https://www.ecorefugio.org/calculadora-de-terrarios",
+        "https://www.ecorefugio.org/sobre-nosotros"
+      ],
+      "linkedNotInSitemap": [
+        "https://ecorefugio.org/"
+      ],
+      "statusBuckets": {
+        "0xx": 30,
+        "2xx": 1,
+        "3xx": 0,
+        "4xx": 0,
+        "5xx": 0
+      }
+    }
+  }
+}
