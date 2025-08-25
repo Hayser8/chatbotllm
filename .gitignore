@@ -1,0 +1,75 @@
+# --- Dependencias / Package managers ---
+**/node_modules/
+**/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# --- Builds / Salidas ---
+**/dist/
+**/build/
+**/.next/
+**/out/
+**/.vercel/
+**/.turbo/
+**/.swc/
+
+# --- TypeScript ---
+*.tsbuildinfo
+**/next-env.d.ts
+
+# --- Logs & diagnósticos ---
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+**/*.log
+**/.eslintcache
+**/.stylelintcache
+
+# --- Entornos (no subir credenciales) ---
+.env
+.env.local
+.env.*.local
+
+# --- IDE/Editor ---
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# --- Tests / Herramientas ---
+coverage/
+**/coverage/
+**/test-results/
+.playwright/
+**/.nyc_output/
+**/.pytest_cache/
+
+# --- Datos runtime / Snapshots / Cache ---
+**/data/snapshots/
+**/data/cache/
+**/data/tmp/
+**/data/*.db
+**/data/*.sqlite
+**/data/*.sqlite3
+**/data/**/*.log
+**/tmp/
+**/temp/
+
+# --- Generados varios ---
+**/*.generated.*
+# Si te molestan sourcemaps minificados externos:
+# **/*.min.*.map
+
+# --- Miscelánea del SO ---
+ehthumbs.db
+Icon?
+**/.Trash-*

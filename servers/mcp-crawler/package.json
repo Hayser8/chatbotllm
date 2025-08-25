@@ -6,10 +6,10 @@
   "main": "src/index.ts",
   "scripts": {
     "dev": "tsx watch src/index.ts",
-    "start": "node --enable-source-maps --loader tsx src/index.ts"
+    "start": "node --enable-source-maps --import tsx src/index.ts"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^0.1.0",
+    "@modelcontextprotocol/sdk": "^1.17.0",
     "zod": "^3.23.8"
   },
   "devDependencies": {
